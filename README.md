@@ -10,7 +10,7 @@
 I'm **Mohamed Yousef**, a **Senior Flutter Developer** with 4+ years of experience building high-quality **cross-platform mobile apps** for Android and iOS.  
 I’m passionate about **clean architecture**, **maintainable code**, and **creating apps that feel native and perform flawlessly**.
 
-💡 **Key Focus Areas**
+**Key Focus Areas**
 - Scalable architecture using **Clean Architecture & SOLID Principles**
 - API integrations (**GraphQL**, **REST**)
 - State management: **Riverpod**, **BLoC**, **Provider**
