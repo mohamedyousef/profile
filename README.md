@@ -39,8 +39,8 @@ I’m passionate about **clean architecture**, **maintainable code**, and **crea
 An educational app teaching English for high school students — including videos, exams, live streams, and PDF materials.  
 **Tech:** Flutter · Firebase · Clean Architecture
 
-#### 💇‍♀️ **Viola Salon Platform**
-Merchant and Customer apps connecting salons and clients across Saudi Arabia.  
+#### 💇‍♀️ **Hoods Live Platform**
+Ecommerce Live Streaming .  
 **Tech:** Flutter · Firebase · REST APIs
 
 #### ⚡ **QuickSteps**
@@ -74,7 +74,7 @@ Clean architecture Flutter app showcasing movies and TV shows.
   <a href="https://github.com/mohamedyousef">
     <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://mohamed-dev.onrender.com/admin" target="_blank">
+  <a href="https://mohamed-dev.onrender.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-0f2027?style=for-the-badge&logo=firefox&logoColor=white"/>
   </a>
 </p>
