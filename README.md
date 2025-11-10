@@ -31,25 +31,7 @@ I’m passionate about **clean architecture**, **maintainable code**, and **crea
 | **Architecture & State** | ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-3B82F6?style=flat-square) ![Riverpod](https://img.shields.io/badge/Riverpod-40C4FF?style=flat-square) ![SOLID](https://img.shields.io/badge/SOLID_Principles-333333?style=flat-square) |
 | **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) |
 
----
 
-### 🚀 Featured Projects
-
-#### 🎓 **Elsir App**
-An educational app teaching English for high school students — including videos, exams, live streams, and PDF materials.  
-**Tech:** Flutter · Firebase · Clean Architecture
-
-#### 💇‍♀️ **Hoods Live Platform**
-Ecommerce Live Streaming .  
-**Tech:** Flutter · Firebase · REST APIs
-
-#### ⚡ **QuickSteps**
-A modular multi-app ecosystem using shared repositories and clean architecture.  
-**Tech:** Flutter · Riverpod · GraphQL
-
-#### 🎬 **Movies App**
-Clean architecture Flutter app showcasing movies and TV shows.  
-**Tech:** Flutter · REST · Domain-driven design
 
 ---
 
